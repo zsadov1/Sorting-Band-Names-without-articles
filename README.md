@@ -8,6 +8,10 @@ An exercise from Wes Boz's JS 30 Challenge. Using JS to list band names in alpha
 | --------------------- |
 | Html, Vanilla JS, Css |
 
+## Demo
+
+![Sorting Demo](/sortlist.gif)
+
 ## License
 
 © 2020 Zachary Sadovszky
