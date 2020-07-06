@@ -10,7 +10,7 @@ An exercise from Wes Boz's JS 30 Challenge. Using JS to list band names in alpha
 
 ## Demo
 
-![Sorting Demo](/sortlist.gif)
+![Sorting Demo](/Sortlist.gif)
 
 ## License
 
